@@ -21,7 +21,5 @@ Area of Use: where can the tool be used  <br>
 
 
 by Sanchita Kamath
-
 Doctoral Student - Information Sciences
-
 For IS 578 - Introduction to Digital Humanities
