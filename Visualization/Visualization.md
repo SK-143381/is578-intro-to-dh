@@ -2,7 +2,7 @@ I tried visualization using the index-of-dh-abstracts.csv <br>
 
 I used the tool Datawrapper, and had never used it before. As a person accustomed to Data Visuaization, I was sure, I could sail through this. Yet, when I tried working on the assignment, it was more tedious than expected. Following is the graph I generated using DataWrapper:
 
-[Chart Image ]([url](https://github.com/SK-143381/is578-intro-to-dh/blob/main/Visualization/Chart%20Creation.png)) <br>
+[Chart Image ]([url](https://github.com/SK-143381/is578-intro-to-dh/blob/main/Visualization/Chart_Creation.png)) <br>
 
 My idea was to visualize location, themes and published articles to be able to understand a region wise publishing insight. Thus, I grouped the data based on themes, and added location to me Y-axis. But when I tried changing the X-axis values to the title (from the initial work_id), the software just would not let me. <br>
 
