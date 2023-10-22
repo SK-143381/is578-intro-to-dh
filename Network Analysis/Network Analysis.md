@@ -21,13 +21,6 @@ Further, I tried the Network Navigator for the same data, but the page showed me
 Error Message from Gephi Lite and the Network Navigator:
 ![Error Message from two of the tools](errormessage.png)
 
-
-
-<br>
-By<br>
-Sanchita Kamath<br>
-Doctoral Student - Information Sciences
-
 <br>
 By<br>
 Sanchita Kamath<br>
