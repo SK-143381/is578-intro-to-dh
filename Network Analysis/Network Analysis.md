@@ -6,11 +6,17 @@ I tried aploading my material (a csv file) directly into the Gephi-Lite, which a
 Upon the befalling of this predicament, my strategy should have been to download Gephi, but I decided to move to Palladio, to answer the question I posed before. Surprisingly, Palladio worked really well. <br><br>
 
 NETWORK GRAPH GENERATED ON PALLADIO<br>
-![This is an image of the network generated for the year 2014, node size differentiated based on the number of people who lost their lives.](Palladio_regionvtarget_temporal data.png)<br>
+![This is an image of the network generated for the year 2014, node size differentiated based on the number of people who lost their lives.](Palladio_regionvtarget_temporaldata.png)<br>
 
 For the network metrics, I set the size of the node based on the number of people who lost their lives in that particular region in a particular year. I could not visualize bipartite relationships, which I could atleast create through Table2net, but couldn't visualize.
+<br><br>
+Further, I created the following visualization through Palladio as well, which helped me group temporal data by number of people who lost their lives to a particular weapon.<br>
 
+![Timeline image which shows grouping by weapon](Palladio_Timeline.png) <br>
 
+After this I tried to export the visualization, which happened, but the graph was no longer interactive for me. <br>
 
-
-
+<br>
+By<br>
+Sanchita Kamath<br>
+Doctoral Student - Information Sciences
