@@ -15,6 +15,18 @@ Further, I created the following visualization through Palladio as well, which h
 ![Timeline image which shows grouping by weapon](Palladio_Timeline.png) <br>
 
 After this I tried to export the visualization, which happened, but the graph was no longer interactive for me. <br>
+<br>
+Further, I tried the Network Navigator for the same data, but the page showed me the same message as the Gephi Lite, which re-afffirmed my earlier question, and I wonder if there are other tools like Palladio that can handle mass data.
+
+Error Message from Gephi Lite and the Network Navigator:
+![Error Message from two of the tools](errormessage.png)
+
+
+
+<br>
+By<br>
+Sanchita Kamath<br>
+Doctoral Student - Information Sciences
 
 <br>
 By<br>
